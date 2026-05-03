@@ -6,6 +6,6 @@ from . import views
 # localhost:8000/myfirstApp/order
 urlpatterns = [
     path("", views.my_firstApp, name="my_firstApp"),
-    path("", views.order, name="order"),
+    #path("", views.order, name="order"),
 
 ]
