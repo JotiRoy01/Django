@@ -217,3 +217,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 env_django/
+djangotutorial/media/shops/IMG_1412.JPG
+djangotutorial/media/shops/Joti_.png
